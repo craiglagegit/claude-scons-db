@@ -1,14 +1,14 @@
-# `claude-scons-db` — top-level package
+# `claude_scons_db` — top-level package
 
 Core entry points that compose the rest of the library. See the root
 `CLAUDE.md` for project-wide development rules; this file is context for
-working inside `src/claude-scons-db/` and its subpackages.
+working inside `src/claude_scons_db/` and its subpackages.
 
 ## Mental model
 
 TBD
 
-The top-level module wires the optics together:
+## Public API
 
 TBD
 
