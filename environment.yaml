@@ -5,11 +5,9 @@ dependencies:
   - python=3.13
   # Runtime dependencies (mirror pyproject.toml [project.dependencies])
   - numpy
-  - astropy
-  - galsim
-  - speclite
   # Dev dependencies (mirror pyproject.toml [project.optional-dependencies.dev])
   - black
+  - mypy
   - pytest
   # Interactive development / visualization
   - matplotlib
